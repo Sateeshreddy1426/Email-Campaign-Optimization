@@ -7,7 +7,7 @@ This project analyzes and optimizes an email marketing campaign conducted by an 
 
 ---
 
-## 🧩 Problem Statement
+##  Problem Statement
 
 The marketing team randomly sent emails to a sample of users to inform them about a new feature. The goal was to encourage users to click a link inside the email that redirects them to the company site.
 
